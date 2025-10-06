@@ -6,3 +6,7 @@
 #C5 Commit
 A programmer's wife tells him: "Go to the store and buy a loaf of bread. If they have eggs, get a dozen."
 The programmer comes home with 12 loaves of bread.
+
+#C6 Commit
+A SQL query walks into a bar, walks up to two tables and asks:
+"Can I join you?"
