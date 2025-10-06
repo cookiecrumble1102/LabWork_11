@@ -2,3 +2,14 @@
 #There should be server docs
 
 #Added some new information, for example
+
+#Added very useful information!
+Simple Pancakes:
+- 1 cup flour
+- 1 cup milk
+- 1 egg
+- 1 tbsp sugar
+- 1 tsp baking powder
+- pinch of salt
+
+Mix all ingredients. Cook on a hot pan until golden. Serve with syrup.
